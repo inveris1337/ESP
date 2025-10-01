@@ -1,8 +1,11 @@
 # Seraph
 
-An unfinished open source ESP module; created for Roblox. 
-Any executors shouldn't have any problems using this; and if so make sure to write an issue.
-Some features are still yet to be added; like highlighting & tracers, which will be added whenever im motivated to work on it
+This is a fixed version of strekai's esp.
+Fixed the tracking hope you all will enjoy it.
+
+check out the original post!
+
+https://github.com/Streekaiz/ESP
 ![image](https://github.com/user-attachments/assets/9c50f758-20f8-4a93-bbf2-4547386c7e77)
 
 # Documentation
